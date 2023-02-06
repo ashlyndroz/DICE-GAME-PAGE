@@ -1,0 +1,48 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color:silver;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Unbounded', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 5rem;
+  color:lightslategray;
+}
+
+p {
+  font-size: 2rem;
+  color: blanchedalmond;
+  font-family: 'Unbounded', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 15%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Unbounded', cursive;
+
+}
+h2 {
+  margin: 50px;
+  font-family: 'Unbounded', cursive;
+  text-shadow:3px 0 grey;
+  font-size: 3rem;
+
+}
